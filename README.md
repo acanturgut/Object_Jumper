@@ -1,23 +1,23 @@
 *****************************************************************************
 * COMP 410 - Assigment 1 
 * Ahmet Can Turgut - Spring 2017 - 40616
-*
+
 ****************************************************************************** 
 *   !!WARNING!! 
-*
+
 *   My code worked on mac OS X 10.12.4 Beta (16E163f) correctly. 
-*
+
 *   Specs : MacBook Pro (Retina, 13-inch, Mid 2014
 *   2,6 GHz Intel Core i5 - 8 GB 1600 MHz DDR3
-*
+
 *   X-Code Version: Version 8.2.1 (8C1002)
 *   Some errors may occure on windows enviroment. 
-*   
+  
 *   Program approximatly consume 20 - 30 mb rams for 30 min of run. 
 *   It depends on the arch, specs and OS of the computer...
-*
+
 *   Angel.h file was eddited. According to needs. (for macOS enviroment)
-*
+
 ****************************************************************************
 * Source codes were seperated with lines for readablity 
 * Documentation details can be found in source code
